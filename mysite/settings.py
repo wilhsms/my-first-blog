@@ -25,8 +25,7 @@ SECRET_KEY = '60^@*26jk-=7jc)-y-+u8@yw@$m-9seh3m8&&!mr^bwku9^g!9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['127.0.0.1', 'wilhsms.pythonanywhere.com']
 
 # Application definition
 
